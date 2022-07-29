@@ -1,0 +1,4 @@
+tkinter for gui
+pygame sound lib and music player support
+os 
+
